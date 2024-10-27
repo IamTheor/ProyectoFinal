@@ -11,3 +11,6 @@
 + JDK 17
 + XAMPP
 + mysql-connector-j-8.0.31
+
+## Link myPhpAdmin
++ http://localhost/phpmyadmin/
